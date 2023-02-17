@@ -1,3 +1,5 @@
 toCommit
 
 #new text
+
+#This is a change in a committed file.
