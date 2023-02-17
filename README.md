@@ -26,6 +26,6 @@ $ git commit -m "message while committing"
 
 $ git push origin main
 
-# git log
+$ git log
 
 ## Never store API credentials/ Passwords/ Credit card info etc. on git files as the repository is public.
