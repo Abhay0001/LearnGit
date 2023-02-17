@@ -31,8 +31,13 @@ $ git log --topo-order --all --graph --date=local --pretty=format:'%C(green)%h%C
 
 $ git checkout hash_id_from_log   ##### oints the header to a desired commit
 
-$ git branch ##### gives the name of the current branch
+$ git checkout -B subBranch  ####to create new branch
 
-$ git checkout -B subBranch
+$ git branch   ###### lists the branches and green for current branch
+
+$ git branch name_of_branch  ###### to create new branch
+
+$ git checkout name_of_branch  ###### to switch to existing branch
+
 
 # These changes are done in the sub Branch.
