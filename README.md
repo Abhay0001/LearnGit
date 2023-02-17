@@ -1,2 +1,2 @@
 # LearnGit
-To understand how Git versioning works
+To understand how Git versioning works.
